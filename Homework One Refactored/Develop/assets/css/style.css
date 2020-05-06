@@ -56,7 +56,9 @@ a{
 }
 
 /* Main Content */
-
+main{
+    margin: 20px;
+}
 .float-left {
     float: left;
     margin-right: 25px;
