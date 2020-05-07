@@ -70,7 +70,7 @@ main{
 }
 
 .content {
-    width: 75%;
+    width: 67.467%;
     display: inline-block;
 }
 
@@ -79,7 +79,7 @@ main{
     padding: 20px;
     clear: both;
     float: right;
-    width: 20%;
+    width: 30%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
